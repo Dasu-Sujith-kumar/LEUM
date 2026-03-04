@@ -47,7 +47,7 @@ Each folder contains approximately **5,000 chest X-ray images**.
 The **LIDC-IDRI dataset** is used as an additional unseen dataset for generalization testing.
 
 Dataset link:
-https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
+https://www.cancerimagingarchive.net/collection/lidc-idri/
 
 Provided by **The Cancer Imaging Archive (TCIA)**, this dataset contains annotated lung CT scans.
 
